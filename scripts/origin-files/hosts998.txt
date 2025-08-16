@@ -1,22 +1,3 @@
-127.0.0.1 admob.com
-127.0.0.1 ads.gmodules.com
-127.0.0.1 ads.google.com
-127.0.0.1 adservice.google.com
-127.0.0.1 afd.l.google.com
-127.0.0.1 badad.googleplex.com
-127.0.0.1 csi.gstatic.com
-127.0.0.1 doubleclick.com
-127.0.0.1 doubleclick.net
-127.0.0.1 google-analytics.com
-127.0.0.1 googleadservices.com
-127.0.0.1 googleadsserving.cn
-127.0.0.1 googlecommerce.com
-127.0.0.1 googlesyndication.com
-127.0.0.1 mobileads.google.com
-127.0.0.1 pagead-tpc.l.google.com
-127.0.0.1 pagead.google.com
-127.0.0.1 pagead.l.google.com
-127.0.0.1 service.urchin.com
 127.0.0.1 09mk.cn
 127.0.0.1 100peng.com
 127.0.0.1 114la.com
@@ -176,7 +157,6 @@
 127.0.0.1 edigitalsurvey.com
 127.0.0.1 eduancm.com
 127.0.0.1 emarbox.com
-127.0.0.1 epsilon.com
 127.0.0.1 exosrv.com
 127.0.0.1 fancyapi.com
 127.0.0.1 feitian001.com
@@ -252,7 +232,6 @@
 127.0.0.1 mediaplex.com
 127.0.0.1 mediav.com
 127.0.0.1 megajoy.com
-127.0.0.1 meiqia.com
 127.0.0.1 mgogo.com
 127.0.0.1 miaozhen.com
 127.0.0.1 microad-cn.com
@@ -267,7 +246,7 @@
 127.0.0.1 mobclix.com
 127.0.0.1 mobgi.com
 127.0.0.1 mobisage.cn
-127.0.0.1 mobvista.com
+127.0.0.1 moogos.com
 127.0.0.1 mopub.com
 127.0.0.1 moquanad.com
 127.0.0.1 mpush.cn
@@ -276,7 +255,6 @@
 127.0.0.1 mzy2014.com
 127.0.0.1 networkbench.com
 127.0.0.1 ninebox.cn
-127.0.0.1 ntalker.com
 127.0.0.1 nylalobghyhirgh.com
 127.0.0.1 o2omobi.com
 127.0.0.1 oadz.com
@@ -311,7 +289,6 @@
 127.0.0.1 rtbasia.com
 127.0.0.1 sanya1.com
 127.0.0.1 scupio.com
-127.0.0.1 serving-sys.com
 127.0.0.1 shuiguo.com
 127.0.0.1 shuzilm.cn
 127.0.0.1 similarweb.com
@@ -362,6 +339,7 @@
 127.0.0.1 uuzu.com
 127.0.0.1 uyunad.com
 127.0.0.1 vamaker.com
+127.0.0.1 vlion.cn
 127.0.0.1 voiceads.cn
 127.0.0.1 voiceads.com
 127.0.0.1 vpon.com
@@ -378,6 +356,7 @@
 127.0.0.1 wqmobile.com
 127.0.0.1 wrating.com
 127.0.0.1 wumii.cn
+127.0.0.1 wwads.cn
 127.0.0.1 xcy8.com
 127.0.0.1 xdrig.com
 127.0.0.1 xiaozhen.com
@@ -463,7 +442,6 @@
 127.0.0.1 criteo.com
 127.0.0.1 criteo.net
 127.0.0.1 csbew.com
-127.0.0.1 demdex.net
 127.0.0.1 directrev.com
 127.0.0.1 dumedia.ru
 127.0.0.1 effectivemeasure.com
